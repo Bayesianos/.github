@@ -6,7 +6,6 @@ Este projeto foi desenvolvido como parte da disciplina de **Inteligência Artifi
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
 ## Sobre o Projeto
 O objetivo deste sistema é analisar automaticamente os dados do usuário e prever sua elegibilidade para um empréstimo, com base em probabilidades calculadas pela Rede Bayesiana. A Rede é construída a partir de parâmetros como renda, histórico de crédito, entre outros fatores relevantes.
