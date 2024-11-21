@@ -15,9 +15,13 @@ O objetivo deste sistema é analisar automaticamente os dados do usuário e prev
 - Processa os dados para gerar um modelo probabilístico.
 - Retorna um status de elegibilidade para o empréstimo baseado na análise probabilística.
 
-### Pré-requisitos
+## Pré-requisitos
 - Python 3.11 ou superior
 - FastAPI
 - Uvicorn
 
+## Projeto
+- Vídeo de explicação no YouTube: https://youtu.be/MMMpVJ4hLGQ?feature=shared
+- Back-end: https://backend-bay.onrender.com
+- Front-end: https://frontend-bay.onrender.com
 
